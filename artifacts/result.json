@@ -1,0 +1,18 @@
+{
+  "uid": "36821",
+  "harness": "Codex CLI",
+  "snapshotUrl": "https://github.com/Rrr119/terraform-provider-aws/commit/7253945c6f8c1109d52011c62fbd31fdf728e7dd",
+  "harnessVersion": "codex-cli 0.167.2",
+  "operatingSystem": "Ubuntu 26.04.1 LTS",
+  "operatingSystemCell": [
+    "MacOS/Linux"
+  ],
+  "outputDirectory": "/home/dev/feedback/uid36821",
+  "wslDistro": "Ubuntu-26.04",
+  "B": {
+    "success": false,
+    "canceled": true,
+    "error": "任务已取消",
+    "side": "B"
+  }
+}

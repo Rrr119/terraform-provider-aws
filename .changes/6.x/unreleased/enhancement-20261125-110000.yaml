@@ -1,0 +1,6 @@
+kind: enhancement
+time: 2026-11-25T11:00:00.000000+08:00
+custom:
+    Body: Add `internal/securitybaseline` package with security baseline checks for public S3 bucket access (public ACL, wildcard bucket policy, missing or weak public access block) and security group ingress rules that expose risky ports or all protocols to the entire internet
+    Impact: provider
+    PullRequest: ""

@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid36821",
+  "B": "/home/dev/feedback/uid36821",
+  "sha": "7253945c6f8c1109d52011c62fbd31fdf728e7dd",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "hashicorp",
+    "repo": "terraform-provider-aws",
+    "sha": "7253945c6f8c1109d52011c62fbd31fdf728e7dd"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "terraform-provider-aws",
+    "cloneUrl": "https://github.com/Rrr119/terraform-provider-aws.git"
+  },
+  "at": "2026-11-25T02:41:21.661Z"
+}
